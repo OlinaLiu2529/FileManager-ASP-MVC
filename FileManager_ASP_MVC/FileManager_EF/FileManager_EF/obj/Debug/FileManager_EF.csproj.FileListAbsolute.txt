@@ -1,0 +1,51 @@
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\EF_for_FileManager_ASP_MVC\FileManager_EF\FileManager_EF\bin\Debug\FileManager_EF.dll.config
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\EF_for_FileManager_ASP_MVC\FileManager_EF\FileManager_EF\bin\Debug\FileManager_EF.dll
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\EF_for_FileManager_ASP_MVC\FileManager_EF\FileManager_EF\bin\Debug\FileManager_EF.pdb
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\EF_for_FileManager_ASP_MVC\FileManager_EF\FileManager_EF\bin\Debug\EntityFramework.dll
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\EF_for_FileManager_ASP_MVC\FileManager_EF\FileManager_EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\EF_for_FileManager_ASP_MVC\FileManager_EF\FileManager_EF\bin\Debug\EntityFramework.xml
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\EF_for_FileManager_ASP_MVC\FileManager_EF\FileManager_EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\EF_for_FileManager_ASP_MVC\FileManager_EF\FileManager_EF\obj\Debug\FileManager_EF.csproj.CoreCompileInputs.cache
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\EF_for_FileManager_ASP_MVC\FileManager_EF\FileManager_EF\obj\Debug\FileManager_EF.csproj.CopyComplete
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\EF_for_FileManager_ASP_MVC\FileManager_EF\FileManager_EF\obj\Debug\FileManager_EF.dll
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\EF_for_FileManager_ASP_MVC\FileManager_EF\FileManager_EF\obj\Debug\FileManager_EF.pdb
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\EF_for_FileManager_ASP_MVC\FileManager_EF\FileManager_EF\obj\Debug\FileManager_EF.csprojAssemblyReference.cache
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\EF_for_FileManager_ASP_MVC\FileManager_EF\FileManager_EF\obj\Debug\FileManager_EF.Migrations.initial.resources
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\EF_for_FileManager_ASP_MVC\FileManager_EF\FileManager_EF\obj\Debug\FileManager_EF.csproj.GenerateResource.cache
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\EF_for_FileManager_ASP_MVC\FileManager_EF\FileManager_EF\obj\Debug\FileManager_EF.Migrations.final.resources
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\FileManager_ASP_MVC\FileManager_ASP_MVC\FileManager_EF\FileManager_EF\bin\Debug\FileManager_EF.dll.config
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\FileManager_ASP_MVC\FileManager_ASP_MVC\FileManager_EF\FileManager_EF\bin\Debug\FileManager_EF.dll
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\FileManager_ASP_MVC\FileManager_ASP_MVC\FileManager_EF\FileManager_EF\bin\Debug\FileManager_EF.pdb
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\FileManager_ASP_MVC\FileManager_ASP_MVC\FileManager_EF\FileManager_EF\bin\Debug\EntityFramework.dll
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\FileManager_ASP_MVC\FileManager_ASP_MVC\FileManager_EF\FileManager_EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\FileManager_ASP_MVC\FileManager_ASP_MVC\FileManager_EF\FileManager_EF\bin\Debug\FileManager_EF_Models.dll
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\FileManager_ASP_MVC\FileManager_ASP_MVC\FileManager_EF\FileManager_EF\bin\Debug\FileManager_EF_Models.pdb
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\FileManager_ASP_MVC\FileManager_ASP_MVC\FileManager_EF\FileManager_EF\bin\Debug\FileManager_EF_Models.dll.config
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\FileManager_ASP_MVC\FileManager_ASP_MVC\FileManager_EF\FileManager_EF\bin\Debug\EntityFramework.xml
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\FileManager_ASP_MVC\FileManager_ASP_MVC\FileManager_EF\FileManager_EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\FileManager_ASP_MVC\FileManager_ASP_MVC\FileManager_EF\FileManager_EF\obj\Debug\FileManager_EF.csprojAssemblyReference.cache
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\FileManager_ASP_MVC\FileManager_ASP_MVC\FileManager_EF\FileManager_EF\obj\Debug\FileManager_EF.csproj.CoreCompileInputs.cache
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\FileManager_ASP_MVC\FileManager_ASP_MVC\FileManager_EF\FileManager_EF\obj\Debug\FileManager_EF.csproj.CopyComplete
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\FileManager_ASP_MVC\FileManager_ASP_MVC\FileManager_EF\FileManager_EF\obj\Debug\FileManager_EF.dll
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\FileManager_ASP_MVC\FileManager_ASP_MVC\FileManager_EF\FileManager_EF\obj\Debug\FileManager_EF.pdb
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\Новая папка\FileManager_ASP_MVC\FileManager_ASP_MVC\FileManager_EF\FileManager_EF\bin\Debug\FileManager_EF.dll.config
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\Новая папка\FileManager_ASP_MVC\FileManager_ASP_MVC\FileManager_EF\FileManager_EF\bin\Debug\FileManager_EF.dll
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\Новая папка\FileManager_ASP_MVC\FileManager_ASP_MVC\FileManager_EF\FileManager_EF\bin\Debug\FileManager_EF.pdb
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\Новая папка\FileManager_ASP_MVC\FileManager_ASP_MVC\FileManager_EF\FileManager_EF\bin\Debug\EntityFramework.dll
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\Новая папка\FileManager_ASP_MVC\FileManager_ASP_MVC\FileManager_EF\FileManager_EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\Новая папка\FileManager_ASP_MVC\FileManager_ASP_MVC\FileManager_EF\FileManager_EF\bin\Debug\FileManager_EF_Models.dll
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\Новая папка\FileManager_ASP_MVC\FileManager_ASP_MVC\FileManager_EF\FileManager_EF\bin\Debug\FileManager_EF_Models.pdb
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\Новая папка\FileManager_ASP_MVC\FileManager_ASP_MVC\FileManager_EF\FileManager_EF\bin\Debug\FileManager_EF_Models.dll.config
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\Новая папка\FileManager_ASP_MVC\FileManager_ASP_MVC\FileManager_EF\FileManager_EF\bin\Debug\EntityFramework.xml
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\Новая папка\FileManager_ASP_MVC\FileManager_ASP_MVC\FileManager_EF\FileManager_EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\Новая папка\FileManager_ASP_MVC\FileManager_ASP_MVC\FileManager_EF\FileManager_EF\obj\Debug\FileManager_EF.csprojAssemblyReference.cache
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\Новая папка\FileManager_ASP_MVC\FileManager_ASP_MVC\FileManager_EF\FileManager_EF\obj\Debug\FileManager_EF.Migrations.initial.resources
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\Новая папка\FileManager_ASP_MVC\FileManager_ASP_MVC\FileManager_EF\FileManager_EF\obj\Debug\FileManager_EF.Migrations.final.resources
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\Новая папка\FileManager_ASP_MVC\FileManager_ASP_MVC\FileManager_EF\FileManager_EF\obj\Debug\FileManager_EF.csproj.GenerateResource.cache
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\Новая папка\FileManager_ASP_MVC\FileManager_ASP_MVC\FileManager_EF\FileManager_EF\obj\Debug\FileManager_EF.csproj.CoreCompileInputs.cache
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\Новая папка\FileManager_ASP_MVC\FileManager_ASP_MVC\FileManager_EF\FileManager_EF\obj\Debug\FileManager_EF.csproj.CopyComplete
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\Новая папка\FileManager_ASP_MVC\FileManager_ASP_MVC\FileManager_EF\FileManager_EF\obj\Debug\FileManager_EF.dll
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\Новая папка\FileManager_ASP_MVC\FileManager_ASP_MVC\FileManager_EF\FileManager_EF\obj\Debug\FileManager_EF.pdb
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\FileManager_ASP_MVC\FileManager_ASP_MVC\FileManager_EF\FileManager_EF\obj\Debug\FileManager_EF.Migrations.Initial.resources
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\FileManager_ASP_MVC\FileManager_ASP_MVC\FileManager_EF\FileManager_EF\obj\Debug\FileManager_EF.csproj.GenerateResource.cache
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\FileManager_ASP_MVC\FileManager_ASP_MVC\FileManager_EF\FileManager_EF\obj\Debug\FileManager_EF.Migrations.Final.resources

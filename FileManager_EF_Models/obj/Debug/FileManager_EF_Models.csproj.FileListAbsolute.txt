@@ -1,0 +1,24 @@
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\FileManager_ASP_MVC\FileManager_EF_Models\bin\Debug\FileManager_EF_Models.dll.config
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\FileManager_ASP_MVC\FileManager_EF_Models\bin\Debug\FileManager_EF_Models.dll
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\FileManager_ASP_MVC\FileManager_EF_Models\bin\Debug\FileManager_EF_Models.pdb
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\FileManager_ASP_MVC\FileManager_EF_Models\bin\Debug\EntityFramework.dll
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\FileManager_ASP_MVC\FileManager_EF_Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\FileManager_ASP_MVC\FileManager_EF_Models\bin\Debug\EntityFramework.xml
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\FileManager_ASP_MVC\FileManager_EF_Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\FileManager_ASP_MVC\FileManager_EF_Models\obj\Debug\FileManager_EF_Models.csproj.CoreCompileInputs.cache
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\FileManager_ASP_MVC\FileManager_EF_Models\obj\Debug\FileManager_EF_Models.csproj.CopyComplete
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\FileManager_ASP_MVC\FileManager_EF_Models\obj\Debug\FileManager_EF_Models.dll
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\FileManager_ASP_MVC\FileManager_EF_Models\obj\Debug\FileManager_EF_Models.pdb
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\Новая папка\FileManager_ASP_MVC\FileManager_EF_Models\bin\Debug\FileManager_EF_Models.dll.config
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\Новая папка\FileManager_ASP_MVC\FileManager_EF_Models\bin\Debug\FileManager_EF_Models.dll
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\Новая папка\FileManager_ASP_MVC\FileManager_EF_Models\bin\Debug\FileManager_EF_Models.pdb
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\Новая папка\FileManager_ASP_MVC\FileManager_EF_Models\bin\Debug\EntityFramework.dll
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\Новая папка\FileManager_ASP_MVC\FileManager_EF_Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\Новая папка\FileManager_ASP_MVC\FileManager_EF_Models\bin\Debug\EntityFramework.xml
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\Новая папка\FileManager_ASP_MVC\FileManager_EF_Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\Новая папка\FileManager_ASP_MVC\FileManager_EF_Models\obj\Debug\FileManager_EF_Models.csprojAssemblyReference.cache
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\Новая папка\FileManager_ASP_MVC\FileManager_EF_Models\obj\Debug\FileManager_EF_Models.csproj.CoreCompileInputs.cache
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\Новая папка\FileManager_ASP_MVC\FileManager_EF_Models\obj\Debug\FileManager_EF_Models.csproj.CopyComplete
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\Новая папка\FileManager_ASP_MVC\FileManager_EF_Models\obj\Debug\FileManager_EF_Models.dll
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\Новая папка\FileManager_ASP_MVC\FileManager_EF_Models\obj\Debug\FileManager_EF_Models.pdb
+C:\Users\RT\source\repos\ASP_EF_WPF\ASP\Work_TEST\FileManager_ASP_MVC\FileManager_EF_Models\obj\Debug\FileManager_EF_Models.csprojAssemblyReference.cache
