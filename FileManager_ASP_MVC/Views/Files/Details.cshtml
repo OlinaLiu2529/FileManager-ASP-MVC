@@ -1,0 +1,8 @@
+﻿@model FileManager_EF_Models.Models.File
+
+@Html.TextAreaFor(model => model.Content, 50, 40, htmlAttributes: new { style = "width: 100%; max-width: 100%;" })
+
+<div>
+    @Html.ActionLink("Back to List", "Index", "Folder")
+</div>
+

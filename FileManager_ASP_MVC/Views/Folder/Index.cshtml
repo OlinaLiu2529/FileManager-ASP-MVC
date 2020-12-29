@@ -1,0 +1,39 @@
+﻿@using FileManager_EF_Models.Models
+@model IEnumerable<Folder>
+
+
+@helper BuildMenu(IEnumerable<Folder> folders, string parentID = null)
+{
+var items = folders.Where(f => f.ParentFolder == parentID).ToList();
+if (items.Any())
+{
+        <ul>
+            @foreach (var folder in items)
+            {
+                <li class="list-group-item"> <a href="folder/index/@folder.Id"> @Html.DisplayFor(modelItem => folder.FolderName) <text>(id:</text>  @Html.DisplayFor(modelItem => folder.Id) <text>)</text> </a> </li>
+               @BuildMenu(folders, folder.FolderName)
+                if (folder.Files.Any())
+                {
+        <li>
+            <ul>
+                @foreach (var file in folder.Files)
+                {
+                    <li class="list-group-item"> <a href="folder/index/@file.Id"> @Html.DisplayFor(fileitem => file.FileName)</a></li>
+                }
+            </ul>
+        </li>
+                   
+                  
+                }
+
+            }
+        </ul>
+    }
+}
+
+<div id="cssmenu">
+    @BuildMenu(Model)
+</div>
+
+
+

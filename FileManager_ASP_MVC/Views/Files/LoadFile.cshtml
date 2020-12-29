@@ -1,0 +1,19 @@
+﻿@using (Html.BeginForm("LoadFile", "Files", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+
+    <fieldset>
+        <div class="editor-label">Файл для загрузки</div>
+        <div class="editor-field"> <input type="file" name="uploadFile" /></div>
+        <p>
+            <input type="submit" value="Добавить" />
+        </p>
+    </fieldset>
+    <div>
+        @Html.ActionLink("Back to List", "Index", "Folder")
+    </div>
+
+
+}
+
+

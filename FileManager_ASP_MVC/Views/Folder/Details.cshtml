@@ -1,0 +1,42 @@
+﻿@model FileManager_EF_Models.Models.Folder
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Folder</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.FolderName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FolderName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ParentFolder)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ParentFolder)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Timestamp)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Timestamp)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

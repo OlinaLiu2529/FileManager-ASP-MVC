@@ -1,0 +1,19 @@
+﻿@model FileManager_EF_Models.Models.Folder
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    @Html.HiddenFor(x => x.Id)
+    @Html.HiddenFor(x => x.Timestamp)
+
+    <div>
+        @Html.LabelFor(m => m.FolderName, "Вы уверены что хотите удалить папку " + Model.FolderName + "?")
+    </div>
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Удалить" class="btn btn-default" />
+            @Html.ActionLink("Отмена", "Index")
+        </div>
+    </div>
+
+}
